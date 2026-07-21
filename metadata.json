@@ -1,0 +1,6 @@
+{
+  "name": "GhostOS",
+  "description": "Modular, plugin-based streaming operating system with AI Companion, Multi-Chat, OBS Studio manager, Stream Deck, Audio Deck, Wheel Studio, Stream Economy, and Flow Builder.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
